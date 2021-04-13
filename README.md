@@ -6,6 +6,7 @@ I study different components of the Biological Carbon Pump, for example the impa
 
 - 👯 I’m looking for a postdoctoral position! Message me if you hear of anything. 
 - 💬 Ask me about uni- and multivariate statistics, analysis of time-series data (environmental and biodiversity) and plankton taxonomy.
+- 💻 Proficient in R and Latex, currently learning Python.
 - 📫 How to reach me: Check out my [Twitter](https://twitter.com/svenja_halfter) or my [website](https://svenjahalfter.github.io/).
 - 😄 Pronouns: she/her
 

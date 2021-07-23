@@ -4,9 +4,9 @@ I am Svenja, a marine scientist, who's currently finishing up my PhD at the [Ins
 
 I study different components of the Biological Carbon Pump, for example the impact of zooplankton carcasses on the carbon flux. I also study how different species communities influence the carbon export by using data from a sediment trap archive and I developed a new research tool to measure zooplankton respiration in-situ. 
 
-- 👯 I’m looking for a postdoctoral position! Message me if you hear of anything. 
+- 👯 I’m looking for a postdoctoral position for 2022! Message me if you hear anything.  
 - 💬 Ask me about uni- and multivariate statistics, analysis of time-series data (environmental and biodiversity) and plankton taxonomy.
 - 💻 Proficient in R and Latex, currently learning Python.
 - 📫 How to reach me: Check out my [Twitter](https://twitter.com/svenja_halfter) or my [website](https://svenjahalfter.github.io/).
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/they
 

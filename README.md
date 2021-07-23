@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Svenja, a marine scientist, who's currently finishing up my PhD at the [Institute for Marine and Antarctic Studies](https://www.imas.utas.edu.au/). I work on zooplankton ecology (mainly copepods, amphipods, krill, pteropods and tunicates) and biogeochemistry in the Southern Ocean, with a focus on the subantarctic zone. 
+I am Svenja, a marine scientist, and currently finish up my PhD at the [Institute for Marine and Antarctic Studies](https://www.imas.utas.edu.au/). I work on zooplankton ecology (mainly copepods, amphipods, krill, pteropods and tunicates) and biogeochemistry in the Southern Ocean, with a focus on the subantarctic zone. 
 
 I study different components of the Biological Carbon Pump, for example the impact of zooplankton carcasses on the carbon flux. I also study how different species communities influence the carbon export by using data from a sediment trap archive and I developed a new research tool to measure zooplankton respiration in-situ. 
 

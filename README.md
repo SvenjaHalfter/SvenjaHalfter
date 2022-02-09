@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Svenja, a marine scientist, and currently finish up my PhD at the [Institute for Marine and Antarctic Studies](https://www.imas.utas.edu.au/). I work on zooplankton ecology (mainly copepods, amphipods, krill, pteropods and tunicates) and biogeochemistry in the Southern Ocean, with a focus on the subantarctic zone. 
+I am a marine scientist, and currently work as research assistant at the [Institute for Marine and Antarctic Studies](https://www.imas.utas.edu.au/), after submitting my PhD in late 2021. My interests are the impact of climate change on polar ecosystem and carbon cycle as well as ocean data collection and management. 
 
-I study different components of the Biological Carbon Pump, for example the impact of zooplankton carcasses on the carbon flux. I also study how different species communities influence the carbon export by using data from a sediment trap archive and I developed a new research tool to measure zooplankton respiration in-situ. 
+For my PhD, I studied different components of the Biological Carbon Pump, for example the impact of zooplankton carcasses on the carbon flux, and how different species communities impact carbon export by a sediment trap archive. Also, I developed a new research tool to measure zooplankton respiration in-situ. Check out my [website](https://svenjahalfter.github.io/projects/) for more information on current projects. 
 
-- 👯 I’m looking for a postdoctoral position for 2022! Message me if you hear anything.  
+- 👯 I’m looking for a postdoctoral position for mid- to late 2022! Message me if you hear anything.  
 - 💬 Ask me about uni- and multivariate statistics, analysis of time-series data (environmental and biodiversity) and plankton taxonomy.
 - 💻 Proficient in R and Latex, currently learning Python.
 - 📫 How to reach me: Check out my [Twitter](https://twitter.com/svenja_halfter) or my [website](https://svenjahalfter.github.io/).
